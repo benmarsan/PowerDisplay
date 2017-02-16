@@ -3,6 +3,6 @@
     xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item android:title="Find Power Meter"
-        android:id="@+id/connect_ble"
+        android:id="@+id/action_connect_ble"
         android:icon="@drawable/ic_settings_bluetooth_white_48dp" />
 </menu>
